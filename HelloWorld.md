@@ -8,4 +8,4 @@ Add your section below — put your name in the heading, and say hello in your o
 
 Hello, world! This is what a markdown edit looks like.
 
-Hello everyone! - Amir Husseini
+Hello everyone and good luck with the tasks - Amir Husseini
