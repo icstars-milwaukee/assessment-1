@@ -10,5 +10,5 @@ Hello, world! This is what a markdown edit looks like.
 
 
 # Cortez Hale
+Fingers crossed 
 
-By the power of greyskull We have the knowledge, Tech-man 
