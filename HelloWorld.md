@@ -4,6 +4,5 @@ Add your section below — put your name in the heading, and say hello in your o
 
 ---
 
-## Example: Carl Lewis
-
-Hello, world! This is what a markdown edit looks like.
+## Joshua Nasberg
+Hello, world! I’m excited to be learning Markdown and creating my first polished document. This simple greeting is a strong start, and I’m looking forward to improving my skills as I continue.
